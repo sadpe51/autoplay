@@ -12,7 +12,7 @@ local WHITELIST = {
     "exiled57",
     "gorilatortinho67",
     "Secundaria_614",
-    "Roubeumbrainrot98798",
+    "UN64210814",
 }
 
 local autorizado = false
